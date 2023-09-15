@@ -32,6 +32,9 @@ div.main{
     height: fit-content;
     
     }
+    h3 {
+        color: #630000; 
+    }
     h4 {
     
         background-color: red;
