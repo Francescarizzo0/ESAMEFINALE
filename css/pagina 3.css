@@ -36,6 +36,7 @@ div.main{
         color: #960000;
         padding: 6px;
         border-radius: 16px;
+        font-family: 'Creepster',cursive;
     }
     h4 {
     
@@ -97,7 +98,9 @@ div.main{
         } 
       h3 {
         color: #960000;
-        border-radius:16px
+           padding: 6px;
+        border-radius: 16px;
+        font-family: 'Creepster',cursive;
     }
         h4 {
         
@@ -166,6 +169,7 @@ div.main{
     height: fit-content;
     margin-bottom: 30px;
     }
+    
     h4 {
 
         background-color: red;
@@ -180,6 +184,9 @@ div.main{
     }
           h3 {
         color: #960000; 
+        padding: 6px;
+        border-radius: 16px;
+        font-family: 'Creepster',cursive;
     }
     ul {
         list-style: none;
