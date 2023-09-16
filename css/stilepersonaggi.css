@@ -13,10 +13,60 @@ body {
     color: white;
     font-family: 'Creepster', cursive;
     font-size: 50px;
-    margin-top: 60px;
+    margin-top: 80px;
 }
 
 h3 {
+
+    margin-inline: 350px;
+    text-align: left;
+    color: white;
+    font-family: 'Special Elite', cursive;
+    font-size: 24px;
+}
+
+h4 {
+   
+    background-color: red;
+    padding: 10px;
+        color:#750004; 
+    margin: auto;
+        border-radius: 16px;
+        font-family: 'Creepster', cursive;
+        font-size: 24px;
+
+
+}
+
+h5 {
+   
+    background-color: red;
+    padding: 10px;
+        color:white;
+    margin: auto;
+        border-radius: 16px;
+        font-family: 'Creepster', cursive;
+        font-size: 24px;
+
+
+}
+
+h6 {
+
+    background-color: red;
+padding: 12px;
+    color: white;
+margin: auto;
+    border-radius: 16px;
+    font-family: 'Creepster', cursive;
+    font-size: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+ 
+
+h2 {
 
     margin-inline: 350px;
     text-align: left;
@@ -34,21 +84,12 @@ h3 {
     height: fit-content;
     
     }
-    h4 {
-    
-        background-color: red;
-    padding: 6px;
-        color: white;
-    margin: auto;
-        border-radius: 16px;
-        font-family: 'Creepster', cursive;
-        font-size: 14px;
-    }
-    header img{
+
+      header img{
         max-height: 60px;
           object-fit: cover;
          margin-left: 20px;
-         margin-top: 5px;
+         margin-top: 20px;
       }
     ul {
         list-style: none;
@@ -68,19 +109,7 @@ h3 {
             object-fit: cover;
            
         }
-        h5 {
-
-            background-color: #D80000;
-            color: white;
-            font-family: 'Creepster', cursive;
-            font-size: larger;
-            text-align: center;
-            padding: 20px;
-            border-radius: 20px;
-            font-size: 22px;
-    
-        }
-    
+       
         div.personaggi {
             max-width: 500px;
             display: grid;
@@ -92,6 +121,7 @@ h3 {
     
     
         }
+        
     
 
 }
@@ -100,6 +130,7 @@ h3 {
 div.image{
     text-align: center;
 }
+
     img{
         height: 400px;
         max-width: fit-content;
@@ -117,18 +148,7 @@ div.image{
        margin-bottom: 30px;
     
     }
-    h4 {
     
-        background-color: red;
-    padding: 10px;
-        color: white;
-    margin: auto;
-        border-radius: 16px;
-        font-family: 'Creepster', cursive;
-        font-size: 24px;
-    
-    
-    }
     ul {
         list-style: none;
         display: flex;
@@ -141,20 +161,8 @@ div.image{
         max-height: 80px;
         object-fit: cover;
        margin-left: 50px;
-       margin-top: 6px;
+       margin-top: 7px;
       }
-
-    h5 {
-
-        background-color: #D80000;
-        color: white;
-        font-family: 'Creepster', cursive;
-        text-align: center;
-        padding: 20px;
-        border-radius: 20px;
-        font-size: 30px;
-
-    }
 
     div.personaggi {
         max-width: 800px;
@@ -166,6 +174,7 @@ div.image{
     }
 
     }
+
 
 
 @media screen and (max-width:800px) and (min-width:400px) {
@@ -198,7 +207,53 @@ div.image{
         font-size: 18px;
     }
 
+    h2 {
+
+        text-align: center;
+        color: white;
+        margin-inline: 10px;
+        font-family: 'Special Elite', cursive;
+        font-size: 18px;
+    }
+
+    h3 {max-width:280px;
+        margin-left:90px;
+        color: white;
+        font-family: 'Special Elite', cursive;
+        font-size: 10px;
+    }
+
+     h1 {
+
+    background-color: #960000;
+    text-align: center;
+    color: white;
+    font-family: 'Creepster', cursive;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+    ul {
+        list-style: none;
+        display: flex;
+        gap: 12px;
+        margin-right: 10px;
+        align-content: center;
+    }
+
     h4 {
+
+        background-color: red;
+    padding: 6px;
+        color: #750004;
+    margin: auto;
+        border-radius: 16px;
+        font-family: 'Creepster', cursive;
+        font-size: 18px;
+    }
+
+    
+    h5 {
 
         background-color: red;
     padding: 6px;
@@ -209,33 +264,22 @@ div.image{
         font-size: 18px;
     }
 
-    ul {
-        list-style: none;
-        display: flex;
-        gap: 12px;
-        margin-right: 10px;
-        align-content: center;
+    h6 {
+
+        background-color: red;
+    padding: 6px;
+        color: white;
+    margin: auto;
+        border-radius: 16px;
+        font-family: 'Creepster', cursive;
+        font-size: 15px;
     }
 
     header img{
         max-height: 60px;
         object-fit: cover;
        margin-left: 20px;
-       margin-top: 5px;
       }
-
-    h5 {
-
-        background-color: #D80000;
-        color: white;
-        font-family: 'Creepster', cursive;
-        font-size: larger;
-        text-align: center;
-        padding: 20px;
-        border-radius: 20px;
-        font-size: 22px;
-
-    }
 
     div.personaggi {
         max-width: 500px;
@@ -243,8 +287,9 @@ div.image{
         grid-template-columns: 1fr 1fr;
         gap: 40px;
         margin: auto;
-    padding-left: 18px;
-    padding-right: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top:40px;
 
 
     }
