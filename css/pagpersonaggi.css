@@ -68,7 +68,17 @@ margin: auto;
     font-size: 24px;
 }
 
+h4:hover{
+    text-decoration: underline;
+}
 
+h5:hover{
+    text-decoration: underline;
+}
+
+h6:hover{
+    text-decoration: underline;
+}
 
 @media screen and (max-width:400px){
     header {
