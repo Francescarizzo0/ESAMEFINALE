@@ -19,7 +19,7 @@ header {
     text-align: left;
     margin: auto;
     max-width: 850px;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
     font-size: 40px;
     
 }
@@ -50,12 +50,11 @@ h3 {
     
 }
 
-
     h4 {
    
         background-color: red;
         padding: 10px;
-            color: white;
+            color:#750004; 
         margin: auto;
             border-radius: 16px;
             font-family: 'Creepster', cursive;
@@ -65,15 +64,42 @@ h3 {
 }
 
 
+h5 {
+   
+    background-color: red;
+    padding: 10px;
+        color:white;
+    margin: auto;
+        border-radius: 16px;
+        font-family: 'Creepster', cursive;
+        font-size: 24px;
+
+
+}
+
+h6 {
+
+    color: white;
+    margin-inline: 100px;
+    text-align: left;
+    font-family: 'Creepster', cursive;
+    max-width: 850px;
+    margin: auto;
+    font-size:40px;
+
+}
+
 @media screen and (min-width: 500px) {
 
-    body img {height: 500px; width: 550px}
+    body img {height: 550px; width: 550px}
      h3 {font-size: 20px;}
 
     div.filmografia{
         margin:left;     
         
     }
+
+
 
 }
 
@@ -82,7 +108,7 @@ header img{
         object-fit: cover;
        margin-left: 53px;
        margin-top: 6px;
-       max-width: 80px;
+       max-width: 85px;
       }
 
     div.main{
@@ -122,10 +148,11 @@ height: fit-content;
 }
 
 header img{
-    max-height: 80px;
+    max-height: 50px;
       object-fit: cover;
-     margin-left: 20px;
+     margin-left: 3px;
      margin-top: 6px;
+     max-width: 60px;
   }
 ul {
     list-style: none;
@@ -136,23 +163,31 @@ ul {
     align-content: center;
 }
 
-    div.filmografia{
-        margin:left;     
-        
-    }
 
-    body img {height: 250px; width: 400px}
+
+    body img {height: 400px; width: 400px}
    
 
     h1 {
 
     
     color: white;
-    margin-inline: 100px;
-    text-align: left;
     font-family: 'Creepster', cursive;
     font-size: 20px;
     margin: auto;
+    margin-left: 35px;
+
+    
+}
+
+h6 {
+
+    
+    color: white;
+    font-family: 'Creepster', cursive;
+    font-size: 20px;
+    margin: auto;
+    margin-left: 50px;
 
     
 }
@@ -161,11 +196,11 @@ ul {
 
     
     color: white;
-    margin-inline: 200px;
     text-align: left;
     font-family: 'Special Elite', cursive;
-    font-size: 14px;
-    margin: auto;
+    font-size: 10px;
+    margin-left:50px;
+    max-width: 500px;
 
     
 }
@@ -189,7 +224,19 @@ ul {
 
         background-color: red;
     padding: 6px;
-        color: white;
+        color: #750004;
+    margin: auto;
+        border-radius: 16px;
+        font-family: 'Creepster', cursive;
+        font-size: 18px;
+    }
+
+    
+    h5 {
+
+        background-color: red;
+    padding: 6px;
+        color: #750004;
     margin: auto;
         border-radius: 16px;
         font-family: 'Creepster', cursive;
