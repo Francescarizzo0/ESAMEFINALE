@@ -34,9 +34,8 @@ div.main{
     }
     h3 {
         color: #960000;
-       
-  
-         font-family: 'Creepster',cursive;
+        font-family: 'Creepster',cursive;
+        border-radius:16px;
     }
     h4 {
     
@@ -98,7 +97,6 @@ div.main{
         } 
       h3 {
         color: #960000;
-        padding: 6px;
         border-radius: 16px;
         font-family: 'Creepster',cursive;
     }
