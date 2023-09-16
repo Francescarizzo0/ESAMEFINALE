@@ -4,8 +4,6 @@ body {
     margin: 0;
 }
 
-
-
  h1 {
 
     background-color: #960000;
@@ -35,7 +33,6 @@ h4 {
         font-family: 'Creepster', cursive;
         font-size: 24px;
 
-
 }
 
 h5 {
@@ -47,8 +44,6 @@ h5 {
         border-radius: 16px;
         font-family: 'Creepster', cursive;
         font-size: 24px;
-
-
 }
 
 h6 {
@@ -65,8 +60,6 @@ margin: auto;
     
 }
 
- 
-
 h2 {
 
     margin-inline: 350px;
@@ -74,6 +67,18 @@ h2 {
     color: white;
     font-family: 'Special Elite', cursive;
     font-size: 24px;
+}
+
+h4:hover{
+    text-decoration: underline;
+}
+
+h5:hover{
+    text-decoration: underline;
+}
+
+h6:hover{
+    text-decoration: underline;
 }
 
 @media screen and (max-width:400px){
@@ -119,11 +124,8 @@ h2 {
             margin: auto;
         padding-left: 18px;
         padding-right: 18px;
-    
-    
-        }
         
-    
+        }
 
 }
 
@@ -139,7 +141,6 @@ div.image{
         object-fit: cover;
        
     }
-
 
     header {
         background-color: #630000;
@@ -175,8 +176,6 @@ div.image{
     }
 
     }
-
-
 
 @media screen and (max-width:800px) and (min-width:400px) {
     div.image{
@@ -252,7 +251,6 @@ div.image{
         font-family: 'Creepster', cursive;
         font-size: 18px;
     }
-
     
     h5 {
 
@@ -293,9 +291,7 @@ div.image{
     padding-right: 10px;
     margin-top:40px;
 
-
     }
-
 
 
 }
