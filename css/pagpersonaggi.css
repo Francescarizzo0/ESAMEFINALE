@@ -164,7 +164,7 @@ h6:hover{
     
             display: grid;
             grid-template-columns:1fr 1fr;
-            column-gap:60px;
+            column-gap: 40px;
             row-gap: 50px;
          margin:10px
         }
@@ -376,7 +376,7 @@ max-width: fit-content;
     
             display: grid;
             grid-template-columns:1fr 1fr;
-            column-gap:80px;
+            column-gap: 60px;
             row-gap: 50px;
          margin:10px
         }
