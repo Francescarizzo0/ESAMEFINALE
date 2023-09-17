@@ -107,7 +107,7 @@ h5:hover{
     margin: auto;
         border-radius: 16px;
         font-family: 'Creepster', cursive;
-        font-size: 20px;
+        font-size: 22px;
     }
    div.tasti{
     display: flex;
@@ -118,7 +118,7 @@ h5:hover{
     justify-content: space-between;
     max-width: 380px;
     font-family:'Creepster', cursive ;
-    gap: 14px;
+    gap: 10px;
     text-align: center;
     align-content: center;
     height: fit-content;
