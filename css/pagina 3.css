@@ -147,7 +147,7 @@ h5:hover{
         margin: auto;
             border-radius: 20px;
             font-family: 'Spectral SC', serif;
-            font-size: 14px;
+            font-size: 16px;
            
         }  
         h4 {
@@ -157,8 +157,8 @@ h5:hover{
         margin: auto;
             border-radius: 20px;
             font-family: 'Spectral SC', serif;
-            font-size: 14px;
-            gap: 0px;
+            font-size: 16px;
+         
             max-width: fit-content;
            height: fit-content;
         }
