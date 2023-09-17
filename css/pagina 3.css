@@ -60,7 +60,7 @@ h5:hover{
         border-radius: 16px;
         font-family: 'Spectral SC', serif;
         font-size: 14px;
-       max-width: fit-content;
+    
         
     }
 
@@ -143,8 +143,8 @@ h5:hover{
             border-radius: 20px;
             font-family: 'Spectral SC', serif;
             font-size: 22px;
-            gap: 28px;
-            max-width: fit-content;
+            
+          
         }  
         ul {
             list-style: none;
@@ -199,7 +199,7 @@ h5:hover{
         display: flex;
         justify-content: space-between;
        height: 90px;
-    height: fit-content;
+    
     margin-bottom: 30px;
     }
 
