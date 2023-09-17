@@ -60,6 +60,7 @@ h5:hover{
         border-radius: 16px;
         font-family: 'Spectral SC', serif;
         font-size: 14px;
+        gap:10px
     }
 
     h5 {
