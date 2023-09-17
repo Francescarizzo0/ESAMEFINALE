@@ -135,6 +135,17 @@ h5:hover{
            
         }  
         h4 {
+              background-color: red;
+        padding: 8px;
+        color: #750004;
+        margin: auto;
+            border-radius: 20px;
+            font-family: 'Spectral SC', serif;
+            font-size: 20px;
+            gap: 0px;
+            max-width: fit-content;
+           height: fit-content;
+        }
     
             background-color: red;
         padding: 8px;
