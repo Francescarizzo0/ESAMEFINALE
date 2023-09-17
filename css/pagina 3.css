@@ -47,8 +47,8 @@ h5:hover{
         background-color: #630000;
         display: flex;
         justify-content: space-between;
-       height: 70px;
-        gap:10px;
+       height: 90px;
+        
     height: fit-content;
       margin-bottom: 30px;
     }
