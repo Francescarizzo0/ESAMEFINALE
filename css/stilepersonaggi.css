@@ -49,13 +49,14 @@ h6:hover{
         }
        
         div.personaggi {
-            max-width: 500px;
+            max-width: 380px;
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 40px;
             margin: auto;
         padding-left: 18px;
         padding-right: 18px;
+        
         
         }
 
@@ -102,16 +103,13 @@ h6:hover{
         margin: auto;
             border-radius: 16px;
             font-family: 'Spectral SC', serif;
-            font-size:  25px;
+            font-size:  16px;
             text-align: center;
             margin: 20px;
             padding-left: 16px;
         padding-right: 16px;
         }
 
-
-
-}
 
 @media screen and (min-width:800px) {
 div.image{
