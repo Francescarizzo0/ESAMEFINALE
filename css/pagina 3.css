@@ -145,17 +145,7 @@ h5:hover{
             max-width: fit-content;
            height: fit-content;
         }
-    
-            background-color: red;
-        padding: 8px;
-        color: #750004;
-        margin: auto;
-            border-radius: 20px;
-            font-family: 'Spectral SC', serif;
-            font-size: 22px;
-            
-          
-        }  
+   
         ul {
             list-style: none;
             display: flex;
