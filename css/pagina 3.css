@@ -16,12 +16,33 @@ margin-bottom: 18px;
 }
 
 
+
+
 div.main{
     margin-top: 30px;
    margin-bottom: 30px;
    margin: auto;
    max-width: fit-content;
 }
+h5 {
+    
+    background-color: red;
+padding: 10px;
+    color: white;
+margin: auto;
+    border-radius: 16px;
+    font-family: 'Creepster', cursive;
+    font-size: 24px;
+}
+
+h4:hover{
+    text-decoration: underline;
+}
+
+h5:hover{
+    text-decoration: underline;
+}
+
 
 @media screen and (max-width:400px){
     header {
@@ -36,12 +57,14 @@ div.main{
     
         background-color: red;
     padding: 6px;
-        color: white;
+        color: #750004;
     margin: auto;
         border-radius: 16px;
         font-family: 'Creepster', cursive;
         font-size: 14px;
     }
+
+    
     header img{
         max-height: 60px;
           object-fit: cover;
@@ -77,7 +100,7 @@ div.main{
         background-color: #D80000;
         color: white;
         padding: 6px;
-        border-radius: 16px;
+        border-radius: 14px;
     }
    
 }
@@ -90,11 +113,13 @@ div.main{
              margin-bottom: 30px;
         
         }
+
+        
         h4 {
         
             background-color: red;
         padding: 10px;
-            color: white;
+            color: #750004;
         margin: auto;
             border-radius: 16px;
             font-family: 'Creepster', cursive;
@@ -157,11 +182,22 @@ div.main{
     height: fit-content;
     margin-bottom: 30px;
     }
+
+    h5 {
+    
+        background-color: red;
+    padding: 6px;
+        color: white;
+    margin: auto;
+        border-radius: 16px;
+        font-family: 'Creepster', cursive;
+        font-size: 18px;
+    }
     h4 {
 
         background-color: red;
     padding: 6px;
-        color: white;
+        color: #750004;
     margin: auto;
         border-radius: 16px;
         font-family: 'Creepster', cursive;
@@ -228,3 +264,4 @@ div.tasti{
  h6:hover{
         text-decoration: underline;
     }
+

@@ -1,17 +1,22 @@
+img {
+    margin:left;     
+    
+}
+
+header {
+     background-color: #630000;
+        display: flex;
+        justify-content: space-between;
+       height: 120px;
+    height: fit-content;
+}
+
 body {
     font-family: sans-serif;
     background-color: #960000;
     margin: 0;
 }
 
-
-header {
-    background-color: #630000;
-    display: flex;
-    justify-content: space-between;
-   height: 90px;
-
-}
 
  h1 {
     
@@ -42,17 +47,38 @@ margin-top: 14px;
 
 h4 {
    
-        background-color: red;
-        padding: 10px;
-            color: white;
-        margin: auto;
-            border-radius: 16px;
-            font-family: 'Creepster', cursive;
-            font-size: 24px;
-  
-    
+    background-color: red;
+    padding: 10px;
+        color:#750004; 
+    margin: auto;
+        border-radius: 16px;
+        font-family: 'Creepster', cursive;
+        font-size: 24px;
+
+
 }
 
+h5 {
+    background-color: red;
+padding: 10px;
+    color: white;
+margin: auto;
+    border-radius: 16px;
+    font-family: 'Creepster', cursive;
+    font-size: 24px;
+}
+
+h4:hover{
+    text-decoration: underline;
+}
+
+h5:hover{
+    text-decoration: underline;
+}
+
+h6:hover{
+    text-decoration: underline;
+}
 
 @media screen and (max-width:400px){
     header {
@@ -67,12 +93,13 @@ h4 {
     
         background-color: red;
     padding: 6px;
-        color: white;
+        color: #750004; 
     margin: auto;
         border-radius: 16px;
         font-family: 'Creepster', cursive;
         font-size: 14px;
     }
+    
     header img{
         max-height: 60px;
           object-fit: cover;
@@ -153,18 +180,7 @@ h4 {
             height: fit-content;
             object-fit: cover;
         }
-        h5 {
-        
-            background-color: #D80000;
-            color: white;
-            font-family: 'Creepster', cursive;
-            
-            text-align: center;
-            padding: 15px;
-            border-radius: 40px;
-            font-size: 25px;
-            
-        }
+           
     
         div.immagini {
             display: grid;
@@ -249,7 +265,7 @@ max-width: fit-content;
     
         background-color: red;
     padding: 10px;
-        color: white;
+        color: #750004; 
     margin: auto;
         border-radius: 16px;
         font-family: 'Creepster', cursive;
@@ -271,18 +287,6 @@ max-width: fit-content;
        margin-top: 6px;
       }
 
-    h5 {
-    
-        background-color: #D80000;
-        color: white;
-        font-family: 'Creepster', cursive;
-        
-        text-align: center;
-        padding: 15px;
-        border-radius: 40px;
-        font-size: 25px;
-        
-    }
 
     div.immagini {
         display: grid;
@@ -392,14 +396,26 @@ max-width: fit-content;
         
             background-color: red;
         padding: 10px;
-            color: white;
+            color: #750004; 
         margin: auto;
             border-radius: 16px;
             font-family: 'Creepster', cursive;
             font-size: 14px;
         
         
-        }    ul {
+        }    
+        
+        h5 {
+            background-color: red;
+        padding: 10px;
+            color: white;
+        margin: auto;
+            border-radius: 16px;
+            font-family: 'Creepster', cursive;
+            font-size: 14px;
+        }
+
+        ul {
         list-style: none;
         display: flex;
         gap: 12px;
@@ -412,19 +428,7 @@ max-width: fit-content;
        margin-left: 20px;
        margin-top: 5px;
       }
-    
-        h5 {
-        
-            background-color: #D80000;
-            color: white;
-            font-family: 'Creepster', cursive;
-            
-            text-align: center;
-            padding: 15px;
-            border-radius: 40px;
-            font-size: 25px;
-            
-        }
+
     
         div.immagini {
             display: grid;
