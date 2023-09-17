@@ -58,17 +58,15 @@ h5:hover{
        
     }
       img {
-        max-width: 70%;
+        max-width: 40%;
         object-fit: cover;
         height: fit-content;
+          
     }
 
-      img {
-        margin:left;     
-        
-    }
+    
 
-    body img {height: 550px; width: 550px}
+    
 
     
     p {max-width: 600px;
