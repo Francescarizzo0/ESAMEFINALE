@@ -45,36 +45,13 @@ margin-left: 10px;
 margin-top: 14px;
 }
 
-h4 {
-   
-    background-color: red;
-    padding: 10px;
-        color:#750004; 
-    margin: auto;
-        border-radius: 16px;
-        font-family: 'Spectral SC', serif;;
-        font-size: 24px;
 
 
-}
 
-h5 {
-    background-color: red;
-padding: 10px;
-    color: white;
-margin: auto;
-    border-radius: 16px;
-    font-family: 'Creepster', cursive;
-    font-size: 24px;
-}
 
-h4:hover{
-    text-decoration: underline;
-}
 
-h5:hover{
-    text-decoration: underline;
-}
+
+
 
 h6:hover{
     text-decoration: underline;
