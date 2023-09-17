@@ -103,12 +103,14 @@ h5:hover{
        
         
     }
-    h6{
-        font-size: 22px;
-        background-color: #D80000;
+   h6{
+         background-color:#D80000;
+    padding: 10px;
         color: white;
-        padding: 6px;
-        border-radius: 14px;
+    margin: auto;
+        border-radius: 16px;
+        font-family: 'Creepster', cursive;
+        font-size: 24px;
     }
    
 }
@@ -258,14 +260,14 @@ h5:hover{
         
     }
     h6{
-        font-size: 22px;
-        background-color: #D80000;
+         background-color:#D80000;
+    padding: 10px;
         color: white;
-        padding: 6px;
+    margin: auto;
         border-radius: 16px;
+        font-family: 'Creepster', cursive;
+        font-size: 24px;
     }
-   
-
 div.tasti{
     display: flex;
     margin: auto;
