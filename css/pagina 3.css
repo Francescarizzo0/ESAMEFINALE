@@ -265,7 +265,7 @@ h5:hover{
         border-radius: 16px;
     }
    
-}
+
 div.tasti{
     display: flex;
     margin: auto;
@@ -286,3 +286,4 @@ div.tasti{
         text-decoration: underline;
     }
 
+}
