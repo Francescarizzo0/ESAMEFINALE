@@ -48,8 +48,7 @@ h5:hover{
         display: flex;
         justify-content: space-between;
        height: 90px;
-        
-    height: fit-content;
+        height: fit-content;
       margin-bottom: 30px;
     }
   h4 {
@@ -60,14 +59,13 @@ h5:hover{
         border-radius: 16px;
         font-family: 'Spectral SC', serif;
             font-size: 16px;
-            gap:10px;
-            max-width: fit-content;
+          max-width: fit-content;
            height: fit-content;
         }
     h5 {
   
         background-color: red;
-    padding: 6px;
+    padding: 8px;
         color: white;
     margin: auto;
         border-radius: 16px;
