@@ -51,19 +51,18 @@ h5:hover{
     height: fit-content;
       margin-bottom: 30px;
     }
-    h4 {
-    
-        background-color: red;
-    padding: 6px;
+  h4 {
+              background-color: red;
+        padding: 8px;
         color: #750004;
-    margin: auto;
-        border-radius: 16px;
-        font-family: 'Spectral SC', serif;
-        font-size: 14px;
-    
-        
-    }
-
+        margin: auto;
+            border-radius: 20px;
+            font-family: 'Spectral SC', serif;
+            font-size: 20px;
+            gap: 0px;
+            max-width: fit-content;
+           height: fit-content;
+        }
     h5 {
   
         background-color: red;
@@ -224,16 +223,18 @@ h5:hover{
         font-family: 'Spectral SC', serif;
         font-size: 16px;
     }
-    h4 {
-    
-        background-color: red;
-        padding: 6px;
-        color:#750004;
+  h4 {
+              background-color: red;
+        padding: 8px;
+        color: #750004;
         margin: auto;
-        border-radius: 18px;
-        font-family: 'Spectral SC', serif;
-        font-size: 16px;
-    }
+            border-radius: 20px;
+            font-family: 'Spectral SC', serif;
+            font-size: 20px;
+            gap: 0px;
+            max-width: fit-content;
+           height: fit-content;
+        }
     ul {
         list-style: none;
         display: flex;
